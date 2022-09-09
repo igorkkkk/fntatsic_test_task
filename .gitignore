@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#CMAKE
+*.txt
+**/cmake-build-debug
+*.idea
 # Compiled Object files
 *.slo
 *.lo

@@ -34,12 +34,14 @@ int main() {
     std::string third = "Success"; //")())())"
     StringToScope(third);
     auto stop = std::chrono::high_resolution_clock::now();
+    std::string fourth = "(( @"; //`"))(("
+    StringToScope(fourth);
 
 
 
     auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
     std::cout<<"microseconds: "<<duration.count()<<std::endl;
-    std::cout<<first<<std::endl<<second<<std::endl<<third<<std::endl;
+    std::cout<<first<<std::endl<<second<<std::endl<<third<<std::endl<<fourth<<std::endl;
 
     return 0;
 }

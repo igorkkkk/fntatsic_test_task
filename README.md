@@ -12,7 +12,7 @@ Contains UE4 project files of second task.
 
 ##### UE4 game logic
 
--To spawn mushroom inside the basket click on desired button. You cad do it unlimited times.' '' '
--When object is spawned, it moves to flag with randomly generated position.' '' '
--When it finish its rout, it destroy itself.' '' '
--To qiut the game press Escape button.' '' '
+- To spawn mushroom inside the basket click on desired button. You cad do it unlimited times.
+- When object is spawned, it moves to flag with randomly generated position.
+- When it finish its rout, it destroy itself.
+- To qiut the game press Escape button.

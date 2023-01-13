@@ -1,4 +1,4 @@
-# fntatsic_test_task
+# fntatsic-test-task
 
 Repository contains two branches with finished tasks.
 
